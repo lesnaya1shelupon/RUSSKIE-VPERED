@@ -12,7 +12,7 @@ int main(){
     std::cin >> operation;
  
     switch (operation){
-    case '-':
+    case '-': //Операция вычитание
         std::cout << "a - b = " << a - b <<'\n';
         break;
     case '+':
