@@ -15,13 +15,13 @@ int main(){
     case '-': //Операция вычитание
         std::cout << "a - b = " << a - b <<'\n';
         break;
-    case '+':
+    case '+': //Операция сложение
         std::cout << "a + b = " << a + b << '\n';
         break;
-    case '*':
+    case '*': //Операция умножение
         std::cout << "a * b = " << a * b << '\n';
         break;
-    case '/':
+    case '/': //Операция деление
         std::cout << "a / b = " << a / b << '\n';
         break;
     default:
