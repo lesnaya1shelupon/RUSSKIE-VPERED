@@ -1,2 +1,3 @@
 # RUSSKIE-VPERED
-asdasdwasd
+Romanov Platon
+ITS-b-o-21-1
